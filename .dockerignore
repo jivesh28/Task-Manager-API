@@ -1,0 +1,25 @@
+# Maven and IDE
+.target
+/target
+**/target
+.mvn
+!.mvn/wrapper/maven-wrapper.jar
+.idea
+.project
+.classpath
+.settings
+*.iml
+
+# OS junk
+.DS_Store
+
+# VCS
+.git
+.gitignore
+
+# Logs
+*.log
+logs
+
+# Build cache
+.cache
